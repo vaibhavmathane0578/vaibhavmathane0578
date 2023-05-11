@@ -1,4 +1,6 @@
 ### Hi there 👋
+###🙎‍♂️ My name is Vaibhav Sanjay Mathane
+###👨‍🎓I am currently persuing B.Tech in Computer Science and Engineering from G H Raisoni Institute of Engineering and Technology
 ### 🌱 I’m currently learning Java and DSA with System Design
 ### 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/vaibhav-mathane/">LinkedIn</a><br>
