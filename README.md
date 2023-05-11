@@ -5,7 +5,7 @@
 ### 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/vaibhav-mathane/">LinkedIn</a><br>
 <a href="mailto:vaibhav.s.mathane@gmail.com">Gmail</a><br>
-<a href="tel:+918668590729">Mobile No: +918668590729</a>
+<a href="https://wa.me/918668590729">Whatsapp</a>
 
 
 <!--
